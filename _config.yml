@@ -1,7 +1,7 @@
 name: d
 favicon: null
 layout_spectrum: 0.64979
-typography_spectrum: 0.29918
+typography_spectrum: 0.07153
 title: bentobox animorph
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0e0905'
-    - '#0000d6'
-    - '#f5f5e9'
-    - '#916ba6'
-    - '#442952'
-  brandStrength: 0.6875
-  lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.25
+    - '#fefefe'
+    - '#de8f39'
+    - '#2b4383'
+    - '#668961'
+    - '#8c4013'
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
