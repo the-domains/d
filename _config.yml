@@ -1,6 +1,6 @@
 name: d
 favicon: null
-layout_spectrum: 0.48652
+layout_spectrum: 0.64979
 typography_spectrum: 0.29918
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#916ba6'
     - '#442952'
   brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.05577641143463552
-  rhythmicContrast: 0
+  lightness: 0.625
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
