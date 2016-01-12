@@ -1,6 +1,6 @@
 name: d
 favicon: null
-layout_spectrum: 0.5305446931160986
+layout_spectrum: 0.9216
 typography_spectrum: 0.6621795003302395
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#0e0905'
+    - '#0000d6'
+    - '#f5f5e9'
+    - '#916ba6'
+    - '#442952'
   brandStrength: 0.9878252462949604
   lightness: 0.6831876279320568
   saturation: 0.05577641143463552
